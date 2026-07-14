@@ -371,7 +371,7 @@ a:focus {
     width: 100%;
     max-width: 900px;
     min-height: 400px;
-    background-image: url('/img/BingoProduct.png');
+    background-image: url('./img/BingoProduct.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
